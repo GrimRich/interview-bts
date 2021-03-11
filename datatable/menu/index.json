@@ -1,0 +1,14 @@
+{
+  "main": [
+    {
+      "icon": "mdi-view-dashboard",
+      "title": "Checklist",
+      "to": "/",
+      "divider": true,
+      "name": "index",
+      "items": []
+    }
+  ],
+
+  "menuItems": []
+}
