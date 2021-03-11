@@ -1,7 +1,7 @@
 <template>
   <div>
     <v-toolbar dense flat>
-      <v-icon class="mr-2">mdi-dashboard</v-icon>
+      <v-icon class="mr-2">mdi-check-all</v-icon>
       <v-toolbar-title>Checklist</v-toolbar-title>
       <v-spacer></v-spacer>
 
@@ -79,7 +79,7 @@
           <v-card flat outlined>
             <v-card-title>
               <b
-                ><v-icon left>mdi-account-outline</v-icon
+                ><v-icon left>mdi-check-all</v-icon
                 >{{ detail.name ? detail.name : ' - ' }}</b
               >
               <v-spacer></v-spacer>
